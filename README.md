@@ -1,4 +1,4 @@
-# realtor-management-system
+# realtor-management-system  MS SQL 
 
 This repository contains the SQL scripts to create and manage a Real Estate Management System. The database is designed to handle properties, categories, pictures, advertisements, agents, contracts, users, prices, and visits.
 
